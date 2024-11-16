@@ -11,7 +11,6 @@ A powerful yet simple web application for converting and compressing videos with
 - 🎚️ Fine-tune quality with CRF or CBR settings
 - 🤖 Automatic quality optimization based on file size
 - 📐 Multiple resolution options including custom dimensions
-- 👀 Live preview with progress tracking
 - 🌓 Dark/Light theme support
 - 🔒 Secure client-side processing using FFmpeg WASM
 
